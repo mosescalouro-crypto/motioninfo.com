@@ -1,0 +1,47 @@
+
+<cfcontent type='application/ms-excel'>
+
+	<h2>GA Reservation Report for 12/08/17</h2>
+	<table>
+		<thead>
+			<tr>
+				<th align=left>Tail No.</th>
+				<th align=left>Sched. Departure</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+				<tr>
+					<td align=left>NMISXX</td>
+					<td align=left>07:30 AM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>NMISXX</td>
+					<td align=left>08:15 AM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N8888</td>
+					<td align=left>10:30 AM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N666</td>
+					<td align=left>12:15 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N1234</td>
+					<td align=left>02:00 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>NAAAAA</td>
+					<td align=left>03:15 PM</td>
+				<tr>
+			
+		</tbody>
+	</table>
+
+

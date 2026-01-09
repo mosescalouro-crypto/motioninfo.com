@@ -1,0 +1,28 @@
+
+<cfcontent type='application/ms-excel'>
+
+	<h2>Reservation Report for FBO Signature - 12/05/17</h2>
+	<table>
+		<thead>
+			<tr>
+				<th align=left>Tail No.</th>
+				<th align=left>Pilot</th>
+				<th align=left>Phone</th>
+				<th align=left>Email</th>
+				<th align=left>Sched. Departure</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+				<tr>
+					<td align=left>N1234</td>
+					<td align=left>Ben Harold</td>
+					<td align=left>1231231234</td>
+					<td align=left>orvlnet@gmail.com</td>
+					<td align=left>03:15 PM</td>
+				<tr>
+			
+		</tbody>
+	</table>
+
+

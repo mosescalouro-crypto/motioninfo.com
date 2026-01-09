@@ -1,0 +1,125 @@
+
+<cfcontent type='application/ms-excel'>
+
+	<h2>Reservation Report for FBO Signature - 12/03/17</h2>
+	<table>
+		<thead>
+			<tr>
+				<th align=left>Tail No.</th>
+				<th align=left>Pilot</th>
+				<th align=left>Phone</th>
+				<th align=left>Email</th>
+				<th align=left>Sched. Departure</th>
+				<th align=left>Status</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+				<tr>
+					<td align=left>NMISXX</td>
+					<td align=left>Moses Calouro</td>
+					<td align=left>401-255-4045</td>
+					<td align=left>mjc@mgn.com</td>
+					<td align=left>05:00 AM</td>
+					<td align=left>
+						
+							Not Ready
+						
+					</td>
+				<tr>
+			
+				<tr>
+					<td align=left>NMISXX</td>
+					<td align=left>Moses Calouro</td>
+					<td align=left>401-255-4045</td>
+					<td align=left>mjc@mgn.com</td>
+					<td align=left>05:00 AM</td>
+					<td align=left>
+						
+							Not Ready
+						
+					</td>
+				<tr>
+			
+				<tr>
+					<td align=left>NMISXX</td>
+					<td align=left>Moses Calouro</td>
+					<td align=left>401-255-4045</td>
+					<td align=left>mjc@mgn.com</td>
+					<td align=left>06:30 AM</td>
+					<td align=left>
+						
+							Not Ready
+						
+					</td>
+				<tr>
+			
+				<tr>
+					<td align=left>NMISXX</td>
+					<td align=left>Moses Calouro</td>
+					<td align=left>401-255-4045</td>
+					<td align=left>mjc@mgn.com</td>
+					<td align=left>09:30 AM</td>
+					<td align=left>
+						
+							Ready
+						
+					</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N1234</td>
+					<td align=left>Ben Harold</td>
+					<td align=left>123-123-1234</td>
+					<td align=left>ben@mgn.com</td>
+					<td align=left>02:15 PM</td>
+					<td align=left>
+						
+							Not Ready
+						
+					</td>
+				<tr>
+			
+				<tr>
+					<td align=left>PANYNJ</td>
+					<td align=left>Ralph Tamburro</td>
+					<td align=left>212-435-3809</td>
+					<td align=left>rtamburro@panynj.gov</td>
+					<td align=left>02:15 PM</td>
+					<td align=left>
+						
+							Not Ready
+						
+					</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N1234</td>
+					<td align=left>Ben Harold</td>
+					<td align=left>123-123-1234</td>
+					<td align=left>ben@mgn.com</td>
+					<td align=left>04:15 PM</td>
+					<td align=left>
+						
+							Ready
+						
+					</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N1234</td>
+					<td align=left>Ben Harold</td>
+					<td align=left>123-123-1234</td>
+					<td align=left>ben@mgn.com</td>
+					<td align=left>07:45 PM</td>
+					<td align=left>
+						
+							Not Ready
+						
+					</td>
+				<tr>
+			
+		</tbody>
+	</table>
+
+

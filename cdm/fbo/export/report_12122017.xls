@@ -1,0 +1,300 @@
+
+<cfcontent type='application/ms-excel'>
+
+	<h2>Reservation Report for FBO Signature - 12/12/17</h2>
+	<table>
+		<thead>
+			<tr>
+				<th align=left>Tail No.</th>
+				<th align=left>Pilot</th>
+				<th align=left>Phone</th>
+				<th align=left>Email</th>
+				<th align=left>Sched. Departure</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+				<tr>
+					<td align=left>N5566</td>
+					<td align=left>Jane Doe123</td>
+					<td align=left>444-123-4321</td>
+					<td align=left>jane@test.com</td>
+					<td align=left>01:15 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N1234</td>
+					<td align=left>Ben H</td>
+					<td align=left>1231231234</td>
+					<td align=left>orvlnet@gmail.com</td>
+					<td align=left>04:30 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N123XXXX</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>05:15 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N400WN</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>05:40 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N389HA</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>05:45 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N922VA</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>05:45 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N8694E</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>05:55 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N930AT</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>05:58 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N8642E</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:10 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N4433</td>
+					<td align=left>John Doe 2</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:15 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N4433</td>
+					<td align=left>John Doe 2</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:15 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N201FR</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:19 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N623NK</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:20 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N8535S</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:25 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N821SY</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:30 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N996AT</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:30 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N412WN</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:35 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N8645A</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:40 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N644NK</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:41 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N706JB</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:45 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N657NK</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:45 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N604CZ</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:48 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N62895</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:49 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N945AN</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:50 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N953WN</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>06:50 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N423UA</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:10 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N148FE</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:12 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N638VA</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:15 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N527VA</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:20 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N531NK</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:26 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N950FD</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:30 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N7828A</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:30 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N256JX</td>
+					<td align=left>test</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:30 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N256JX</td>
+					<td align=left>test</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:30 PM</td>
+				<tr>
+			
+				<tr>
+					<td align=left>N402WN</td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left></td>
+					<td align=left>07:50 PM</td>
+				<tr>
+			
+		</tbody>
+	</table>
+
+
